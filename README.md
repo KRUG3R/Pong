@@ -1,4 +1,4 @@
 # Pong
 
-![](Pong---Arduino/PONG_128X64.png)
+![](./PONG_128X64.png)
 
